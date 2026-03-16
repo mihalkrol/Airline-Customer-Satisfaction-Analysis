@@ -1,6 +1,6 @@
 # Airline Customer Satisfaction Analysis
 
-**Business Analyst Portfolio Project**  
+**Business Intelligence Analyst Portfolio Project**  
 Author: Michał Król
 
 ---
